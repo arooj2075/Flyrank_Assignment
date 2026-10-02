@@ -85,3 +85,10 @@ Completed Module 1
 ✔ Claude Project screenshot included
 
 ✔ Toolkit accounts created and Academy enrollment done
+
+
+Proof Statement
+I am proving one thing: I can turn technical ideas into clear, usable, working prototypes — whether that’s an Arduino system, a small web feature, or a structured ML notebook. This proof is built for a hiring manager evaluating me for a junior technical or visual‑editing internship, someone who needs a candidate who can take unclear requirements and turn them into something real, testable, and easy to understand. The single action I want them to take is to contact me directly to discuss an internship opportunity.
+
+Why This Needs to Exist
+My CV cannot prove that I can build real, working features end‑to‑end — this portfolio exists to show that I can actually make things that function, not just list skills.
