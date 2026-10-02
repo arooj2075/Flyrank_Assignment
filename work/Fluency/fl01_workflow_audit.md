@@ -1737,6 +1737,116 @@ A structured brief containing:
 ## Transparency Note
 I built this agent with Claude as a partner. Claude handled drafting and synthesis; I personally checked structure, accuracy, and all final outputs.
 
+## Week 10 — The Plan to Keep Building
+
+### How I Will Add the Next Case Study (Concrete Steps)
+I will follow the same three‑beat structure from Week 2:
+
+1. **Problem**  
+   Write 3–4 lines explaining the real problem the project solved — what wasn’t working, what needed clarity, or what needed to be built.
+
+2. **What I Did**  
+   Describe the decisions, the steps, and the reasoning.  
+   Include one screenshot and one short explanation of why I chose that approach.
+
+3. **What Came of It**  
+   Show the outcome: the working demo, the improvement, or the measurable result.  
+   Keep it short, direct, and in my own voice.
+
+**Steps to add the case:**  
+- Open my Claude Project (it already knows my voice, stack, and identity kit).  
+- Paste my raw notes and let Claude interview me until the three beats are clear.  
+- Draft → critique → revise (same pipeline as earlier weeks).  
+- Add the finished case to the “Work” section of my portfolio.  
+- Push the update live.
+
+This is a repeatable process, not a rebuild.
+
+---
+
+### The Next Real Piece of Work I Will Add
+**Next case study:**  
+**“My Smart Home Security System (Two‑Arduino Build)”**  
+A real project using ultrasonic sensors, keypad input, LEDs, buzzer logic, and LCD output. It fits my proof statement and shows hands‑on technical work.
+
+---
+
+### Evidence of Reminder Set
+I set a concrete reminder:
+
+**Calendar reminder:**  
+“Add Smart Home Security System case study to portfolio.”  
+Date: **Monday, 12 October 2026 — 8:00 PM**
+
+This ensures the next case actually gets shipped, not forgotten.
+
+---
+
+### Build Context Preserved
+My Claude Project remains active with:  
+- My identity kit  
+- My voice card  
+- My sitemap  
+- My case study structure  
+- My proof statement  
+
+This means future updates are cheap — the next case is just a short conversation, not a fresh setup.
+
+
+## Week 10 — The Plan to Keep Building
+
+### How I Will Add the Next Case Study (Concrete Steps)
+I will follow the same three‑beat structure from Week 2:
+
+1. **Problem**  
+   Write 3–4 lines explaining the real problem the project solved — what wasn’t working, what needed clarity, or what needed to be built.
+
+2. **What I Did**  
+   Describe the decisions, the steps, and the reasoning.  
+   Include one screenshot and one short explanation of why I chose that approach.
+
+3. **What Came of It**  
+   Show the outcome: the working demo, the improvement, or the measurable result.  
+   Keep it short, direct, and in my own voice.
+
+**Steps to add the case:**  
+- Open my Claude Project (it already knows my voice, stack, and identity kit).  
+- Paste my raw notes and let Claude interview me until the three beats are clear.  
+- Draft → critique → revise (same pipeline as earlier weeks).  
+- Add the finished case to the “Work” section of my portfolio.  
+- Push the update live.
+
+This is a repeatable process, not a rebuild.
+
+---
+
+### The Next Real Piece of Work I Will Add
+**Next case study:**  
+**“My Smart Home Security System (Two‑Arduino Build)”**  
+A real project using ultrasonic sensors, keypad input, LEDs, buzzer logic, and LCD output. It fits my proof statement and shows hands‑on technical work.
+
+---
+
+### Evidence of Reminder Set
+I set a concrete reminder:
+
+**Calendar reminder:**  
+“Add Smart Home Security System case study to portfolio.”  
+Date: **Monday, 12 October 2026 — 8:00 PM**
+
+This ensures the next case actually gets shipped, not forgotten.
+
+---
+
+### Build Context Preserved
+My Claude Project remains active with:  
+- My identity kit  
+- My voice card  
+- My sitemap  
+- My case study structure  
+- My proof statement  
+
+This means future updates are cheap — the next case is just a short conversation, not a fresh setup.
 
 
 
